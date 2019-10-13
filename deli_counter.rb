@@ -1,4 +1,4 @@
-#def line(array) # this was the one I figured out
+def line(array) # this was the one I figured out
   if array.length >= 1
     nuarray = []
     counter = 1 
